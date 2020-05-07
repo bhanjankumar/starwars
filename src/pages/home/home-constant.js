@@ -1,0 +1,3 @@
+export const NAV_TO_LOGIN = 'NAV_TO_LOGIN';
+export const NAV_LOGIN_FAIL = 'NAV_LOGIN_FAIL';
+export const NAV_LOGIN_SUCCESS = 'NAV_LOGIN_SUCCESS';
